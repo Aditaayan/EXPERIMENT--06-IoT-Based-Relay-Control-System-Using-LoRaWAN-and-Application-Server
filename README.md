@@ -38,8 +38,8 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 <img width="1919" height="1198" alt="Untitled design (20)" src="https://github.com/user-attachments/assets/1e0a1330-0a0f-47f6-8fef-5b7fc9bf1fc7" />
 <img width="1919" height="1198" alt="Untitled design (16)" src="https://github.com/user-attachments/assets/88dd88bc-b2b7-40d9-bcec-f3ac353d0c86" />
 <img width="1919" height="1198" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/a4d6b521-dab9-4f35-b038-c4af65b5ed2c" />
-<img width="1919" height="1198" alt="Untitled design (19)" src="https://github.com/user-attachments/assets/d839b45f-5e78-4428-83ee-48a53cda5305" />
-<img width="1919" height="1198" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/fd3c15d7-7fcc-439e-87e9-d8d7a5a42e35" />
+<img width="1919" height="1198" alt="Untitled design (23)" src="https://github.com/user-attachments/assets/0e012b4d-fc18-4018-80b8-d2249253183b" />
+<img width="1919" height="1198" alt="Untitled design (24)" src="https://github.com/user-attachments/assets/d345046d-7f26-4003-8be7-9627fcfe17b0" />
 <img width="1919" height="1198" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/b6f0b3b5-210b-4044-affb-f264c9036a44" />
 
 
