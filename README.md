@@ -32,13 +32,14 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 
 ### 3. Dashboard Command Sending
-<img width="1919" height="1172" alt="Screenshot 2026-02-24 135058" src="https://github.com/user-attachments/assets/8c19b0ad-b4d9-4159-a138-d32ed7cbee3d" />
-<img width="1917" height="1168" alt="Screenshot 2026-02-24 135040" src="https://github.com/user-attachments/assets/7323bb87-f8a0-4adc-895e-555ce790f43e" />
-<img width="1914" height="1167" alt="Screenshot 2026-02-24 135025" src="https://github.com/user-attachments/assets/5dea07de-c845-48a9-912e-b1269c7bf59c" />
-<img width="1919" height="1169" alt="Screenshot 2026-02-24 135014" src="https://github.com/user-attachments/assets/2bfeb484-9390-44b5-840d-85d6e1aedf31" />
-<img width="1919" height="1198" alt="Screenshot 2026-02-24 134957" src="https://github.com/user-attachments/assets/588a439f-f941-4ae0-bb3b-38831d7bcce3" />
-<img width="1919" height="1168" alt="Screenshot 2026-02-24 135118" src="https://github.com/user-attachments/assets/f31c5e82-36a0-45c8-bc97-66c0a84a30bd" />
-<img width="1919" height="1173" alt="Screenshot 2026-02-24 135131" src="https://github.com/user-attachments/assets/23a3285d-255e-4d60-906e-67835fecf984" />
+<img width="1919" height="1198" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/f6806f45-45b8-4871-9c5a-5ec04cbae08a" />
+<img width="1919" height="1198" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/659aea32-c41b-4afb-889f-01c5befeddd9" />
+<img width="1919" height="1198" alt="Untitled design (11)" src="https://github.com/user-attachments/assets/f091efee-6e95-4ac9-b25f-b5f7e3b16764" />
+<img width="1919" height="1198" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/a4d6b521-dab9-4f35-b038-c4af65b5ed2c" />
+<img width="1919" height="1198" alt="Untitled design (13)" src="https://github.com/user-attachments/assets/f09f4c17-998b-4dd0-b09e-8ae4e76b7ca3" />
+<img width="1919" height="1198" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/fd3c15d7-7fcc-439e-87e9-d8d7a5a42e35" />
+<img width="1919" height="1198" alt="Untitled design" src="https://github.com/user-attachments/assets/cb7e9a0b-0c82-4592-ae0a-c7a658594157" />
+
 
 
 ### 4. Relay Status Dashboard Output
