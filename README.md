@@ -24,6 +24,7 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
+<img width="1919" height="1198" alt="Untitled design (34)" src="https://github.com/user-attachments/assets/ae30210f-1b9b-4ff2-b80a-99beda89d61c" />
 
 
 ### 2. Network Server – Recent Events
