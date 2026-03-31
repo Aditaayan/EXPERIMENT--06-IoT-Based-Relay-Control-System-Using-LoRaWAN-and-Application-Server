@@ -32,14 +32,13 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 
 ### 3. Dashboard Command Sending
-<img width="1919" height="1198" alt="Untitled design (28)" src="https://github.com/user-attachments/assets/5ccc1457-bcfb-424c-9e83-066ff9455fe9" />
-<img width="1919" height="1198" alt="Untitled design (27)" src="https://github.com/user-attachments/assets/d57ac8bf-ad33-4a5b-936d-cf49b6a44c52" />
-<img width="1919" height="1198" alt="Untitled design (26)" src="https://github.com/user-attachments/assets/0b9ee1ce-7138-4857-a56d-93e56169a141" />
-<img width="1919" height="1198" alt="Untitled design (29)" src="https://github.com/user-attachments/assets/b735c9a5-6228-4147-acac-8628f082f719" />
-<img width="1919" height="1198" alt="Untitled design (30)" src="https://github.com/user-attachments/assets/f0b15692-a209-48a5-8911-8f8d9ff49392" />
-<img width="2612" height="1632" alt="omm" src="https://github.com/user-attachments/assets/855b60ba-9fcc-4aca-ab1b-bbc5822592cd" />
-<img width="1919" height="1198" alt="Untitled design (31)" src="https://github.com/user-attachments/assets/7eb9c451-34da-4796-a4d2-b73b1187eff0" />
-<img width="1919" height="1198" alt="Untitled design (32)" src="https://github.com/user-attachments/assets/49be1121-66c9-42bb-b13c-e3f05e6ed2f2" />
+<img width="1919" height="1198" alt="Untitled design (16)" src="https://github.com/user-attachments/assets/3417efc9-ced1-433a-82ee-d89337c153dd" />
+<img width="1919" height="1198" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/5c2a4148-1f05-4d35-8800-07a41bf2ea10" />
+<img width="1919" height="1198" alt="Untitled design (18)" src="https://github.com/user-attachments/assets/b2ba8638-d848-4d9f-b484-e3a4cee5e82a" />
+<img width="1919" height="1198" alt="Untitled design (13)" src="https://github.com/user-attachments/assets/ec604b60-7a50-4287-9be8-c9cd82361438" />
+<img width="1919" height="1198" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/d686a7dd-e8c9-4a82-93a9-10dbb96c96df" />
+<img width="1919" height="1198" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/a9a9ce6b-e130-43dd-98f2-78818bef585c" />
+
 
 
 
