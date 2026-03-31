@@ -34,13 +34,13 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 ### 3. Dashboard Command Sending
 <img width="1919" height="1198" alt="Untitled design (16)" src="https://github.com/user-attachments/assets/3417efc9-ced1-433a-82ee-d89337c153dd" />
 <img width="1919" height="1198" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/5c2a4148-1f05-4d35-8800-07a41bf2ea10" />
-<img width="1919" height="1198" alt="Untitled design (13)" src="https://github.com/user-attachments/assets/ec604b60-7a50-4287-9be8-c9cd82361438" />
-<img width="1919" height="1198" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/d686a7dd-e8c9-4a82-93a9-10dbb96c96df" />
-<img width="1919" height="1198" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/a9a9ce6b-e130-43dd-98f2-78818bef585c" />
-<img width="1919" height="1198" alt="Untitled design (20)" src="https://github.com/user-attachments/assets/b21453bb-45fe-45cb-90a2-259be6f09397" />
 <img width="1919" height="1198" alt="Untitled design (22)" src="https://github.com/user-attachments/assets/108e6a76-20a1-4b42-9089-66e1918df6cf" />
 <img width="1919" height="1198" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/1386c686-ccf5-47f7-b630-34419d99543e" />
+<img width="1919" height="1198" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/a9a9ce6b-e130-43dd-98f2-78818bef585c" />
+<img width="1919" height="1198" alt="Untitled design (20)" src="https://github.com/user-attachments/assets/b21453bb-45fe-45cb-90a2-259be6f09397" />
 
+<img width="1919" height="1198" alt="Untitled design (13)" src="https://github.com/user-attachments/assets/ec604b60-7a50-4287-9be8-c9cd82361438" />
+<img width="1919" height="1198" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/d686a7dd-e8c9-4a82-93a9-10dbb96c96df" />
 
 
 
