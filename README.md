@@ -41,6 +41,7 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 <img width="1919" height="1198" alt="Untitled design (23)" src="https://github.com/user-attachments/assets/0e012b4d-fc18-4018-80b8-d2249253183b" />
 <img width="1919" height="1198" alt="Untitled design (24)" src="https://github.com/user-attachments/assets/d345046d-7f26-4003-8be7-9627fcfe17b0" />
 <img width="1919" height="1198" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/b6f0b3b5-210b-4044-affb-f264c9036a44" />
+<img width="2612" height="1632" alt="appuie" src="https://github.com/user-attachments/assets/e14fb933-9da1-462b-9e57-f548614368f8" />
 
 
 
