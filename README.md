@@ -24,7 +24,7 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
-<img width="2612" height="1632" alt="ATZ" src="https://github.com/user-attachments/assets/6085388e-da2d-46b6-ba40-83a357067317" />
+<img width="1919" height="1198" alt="Untitled design (33)" src="https://github.com/user-attachments/assets/617c897c-e791-4b90-ad00-41facecd65a1" />
 
 ### 2. Network Server – Recent Events
 ![e34d43d7-f980-46ad-8a47-c89d4091dd2b](https://github.com/user-attachments/assets/b7fee9af-21dd-4fcf-97ba-2969e97509f7)
@@ -37,6 +37,9 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 <img width="1919" height="1198" alt="Untitled design (26)" src="https://github.com/user-attachments/assets/0b9ee1ce-7138-4857-a56d-93e56169a141" />
 <img width="1919" height="1198" alt="Untitled design (29)" src="https://github.com/user-attachments/assets/b735c9a5-6228-4147-acac-8628f082f719" />
 <img width="1919" height="1198" alt="Untitled design (30)" src="https://github.com/user-attachments/assets/f0b15692-a209-48a5-8911-8f8d9ff49392" />
+<img width="2612" height="1632" alt="omm" src="https://github.com/user-attachments/assets/855b60ba-9fcc-4aca-ab1b-bbc5822592cd" />
+<img width="1919" height="1198" alt="Untitled design (31)" src="https://github.com/user-attachments/assets/7eb9c451-34da-4796-a4d2-b73b1187eff0" />
+<img width="1919" height="1198" alt="Untitled design (32)" src="https://github.com/user-attachments/assets/49be1121-66c9-42bb-b13c-e3f05e6ed2f2" />
 
 
 
